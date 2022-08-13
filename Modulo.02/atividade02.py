@@ -1,6 +1,6 @@
 # SOFTEX-RECIFE
 
-# Atividade 02 do Módulo 02
+# Atividade 02 do módulo 02
 
 # Desenvolva um código que utilize as seguintes características de um veículo:
 # - Quantidade de rodas;
