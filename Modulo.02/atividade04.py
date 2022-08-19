@@ -1,7 +1,7 @@
 # SOFTEX-RECIFE
 # Aluno: Fábio de Tássio
 
-# Atividade 02 do módulo 04 (Executar função de códigos)
+# Atividade 02 do Módulo 04 (Executar função de códigos)
 
 # Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da
 # operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
