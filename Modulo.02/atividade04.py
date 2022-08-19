@@ -13,8 +13,6 @@
 
 # Início
 
-
-
 def calculadora(num1, num2, oper):
     if oper == 1:
         calc = num1 + num2
