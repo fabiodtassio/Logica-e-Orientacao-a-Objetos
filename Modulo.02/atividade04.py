@@ -32,6 +32,8 @@ def calculadora(num01, num02, oper):
 
 num01 = 3
 num02 = 7
-oper = int(input('Digite 1 - soma, 2 - subtração, 3 - multiplicação, 4 - divisão:'))
+print('\n')
+oper = int(input('Digite 1 - soma | 2 - subtração | 3 - multiplicação | 4 - divisão:\n'))
 resultado = calculadora(num01,num02, oper)
-print(resultado)
+print('Resultado:',resultado)
+print('\n')
