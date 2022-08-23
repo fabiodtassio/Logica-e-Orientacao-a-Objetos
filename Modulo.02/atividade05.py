@@ -20,7 +20,6 @@
 
 # É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado. 
 
-
 # Início 
 
 def calculadora(num01, num02, operacao):    # função calculadora
@@ -41,9 +40,9 @@ while True:
     print('\n')
     operacao = int(input('Digite 1 - Soma | 2 - Subtração | 3 - Multiplicação | 4 - Divisão | 0 - SAIR \n'))
     if operacao == 1 or operacao == 2 or operacao == 3 or operacao == 4:
-        num1 = int(input('Digite o primeiro número:\n'))
-        num2 = int(input('Digite o segundo número:\n'))
-        resultado = calculadora(num1, num2, operacao)
+        num01 = int(input('Digite o primeiro número:\n'))
+        num02 = int(input('Digite o segundo número:\n'))
+        resultado = calculadora(num01, num02, operacao)
         print('Resultado:',resultado)
     elif operacao == 0:
         break
