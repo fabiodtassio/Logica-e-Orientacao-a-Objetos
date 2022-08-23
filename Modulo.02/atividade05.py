@@ -49,4 +49,5 @@ while True:
         break
     else:
         print('Essa opção não existe!!!\n')
-print("- Calculadora encerrada! -")    
+print("- Calculadora encerrada! -")   
+print('\n') 
