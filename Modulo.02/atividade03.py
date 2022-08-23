@@ -1,7 +1,7 @@
 # SOFTEX-RECIFE
 # Aluno: Fábio de Tássio
 
-# Atividade 02 do módulo 02
+# Atividade 03 do módulo 02
 
 # Faça um código que execute a contagem regressiva de uma bomba, informando o número de segundos para explodir.
 # Ele deverá mostrar a mensagem “iniciando contagem regressiva”, os segundos passados e, no final, a mensagem “BUM!”.
