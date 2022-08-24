@@ -16,22 +16,18 @@
 def calculadora(num01, num02, oper):
     if oper == 1:
         calc = num01 + num02
-        return(calc)
     elif oper == 2:
         calc = num01 - num02
-        return(calc)
     elif oper == 3:
         calc = num01 * num02
-        return(calc)
     elif oper == 4:
         calc = num01 / num02
-        return(calc)
     else: 
         calc = 0
-        return(calc)
+    return(calc)
 
-num01 = 3
-num02 = 7
+num01 = 12
+num02 = 3
 print('\n')
 oper = int(input('Digite 1 - soma | 2 - subtração | 3 - multiplicação | 4 - divisão \n'))
 resultado = calculadora(num01,num02, oper)
