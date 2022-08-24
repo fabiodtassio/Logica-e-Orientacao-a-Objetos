@@ -25,16 +25,15 @@
 def calculadora(num01, num02, operacao):    # função calculadora
     if operacao == 1:
         calc = num01 + num02
-        return (calc)
     elif operacao == 2:
         calc = num01 - num02
-        return (calc)
     elif operacao == 3:
         calc = num01 * num02
-        return (calc)
-    elif operacao == 4:
+    elif operacao == 4 and num02 != 0:
         calc = num01 / num02
-        return (calc)
+    else:
+        calc = '"ERRO"'    
+    return calc
 
 while True:
     print('\n')
