@@ -1,7 +1,7 @@
 #  SOFTEX-RECIFE
 # Aluno: Fábio de Tássio
 
-# Atividade 05 do Módulo 04 (Contornar problemas previstos no sistema)
+# Atividade 06 do Módulo 02 (Contornar problemas previstos no sistema)
 
 # Desenvolva um programa que recebe do usuário nome completo e ano de nascimento que seja entre 1922 e 2021. 
 # A partir dessas informações, o sistema mostrará o nome do usuário e a idade que completou, ou completará,
