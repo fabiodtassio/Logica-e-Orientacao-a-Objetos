@@ -1,7 +1,7 @@
 #  SOFTEX-RECIFE
 # Aluno: Fábio de Tássio
 
-# Atividade 05 do Módulo 04 (Realizar entrada e saída de dados do usuário)
+# Atividade 05 do Módulo 02 (Realizar entrada e saída de dados do usuário)
 
 # Faça uma função calculadora que os números e as operações serão feitas pelo usuário. O código deve ficar rodando 
 # infinitamente até que o usuário escolha a opção de sair. No início, o programa mostrará a seguinte lista de operações:
