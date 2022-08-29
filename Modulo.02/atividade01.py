@@ -1,3 +1,8 @@
+# SOFTEX-RECIFE
+# Aluno: Fábio de Tássio
+
+# Atividade 01 do módulo 02 (Identificar os diferentes tipos de operadores)
+
 # Desenvolva um programa que utiliza o nome de um aluno, duas notas e a quantidad de faltas que ele teve. Conclua se o aluno está aprovado ou reprovado de acordo com as especificações:
 
 # - Se a média do aluno for menor que sete, o sistema deve informar o nome do aluno e que ele está reprovado;
