@@ -1,3 +1,8 @@
+#  SOFTEX-RECIFE
+# Aluno: Fábio de Tássio
+
+# Atividade 07 do Módulo 02 (Elaborar tipos artificiais de dados)
+
 # Desenvolva um código que simule uma eleição com três candidatos.
 # - candidato_X => 889
 # - candidato_Y => 847
